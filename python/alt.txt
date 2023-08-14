@@ -1,6 +1,11 @@
 Digite seu nome: 
-Digite sua matricula: Digite seu campus: Digite seu curso: Digite o ano de entrada no curso: Nome: Davi
-Matricula: 20222010700121
-Campus: Goiania
-Curso: Automacao
-Ano de Entrada: 2022
+
+Digite sua matricula: 
+Digite seu campus: 
+Digite seu curso: 
+Digite o ano de entrada no curso: Nome: nome
+
+Matricula: 1234567890123
+Campus: campus
+Curso: Curso
+Ano de Entrada: 123
