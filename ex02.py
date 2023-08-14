@@ -1,9 +1,10 @@
 nome = str(input('Digite seu nome: '));
-matricula = int(input('Digite sua matricula: '));
-campus = str(input('Digite seu campus: '));
-curso = str(input('Digite seu curso: '));
-anoDeEntrada = int(input('Digite o ano de entrada no curso: '));
+matricula = int(input('\nDigite sua matricula: '));
+campus = str(input('\nDigite seu campus: '));
+curso = str(input('\nDigite seu curso: '));
+anoDeEntrada = int(input('\nDigite o ano de entrada no curso: '));
 
+print(f'<---------- Printando ---------->');
 print(f'Nome: {nome}');
 print(f'Matricula: {matricula}');
 print(f'Campus: {campus}');
