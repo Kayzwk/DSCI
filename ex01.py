@@ -9,4 +9,8 @@ print(f'Peso: {peso}');
 if(casado == False)
     print(f'Casado: Não');
     else print(f'Casado: Sim');
+<<<<<<< HEAD
     
+=======
+    
+>>>>>>> a1971388d3145c3de673429e9723eb758648493b
